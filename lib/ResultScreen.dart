@@ -6,6 +6,7 @@ final double result;
 final bool ismMale;
 final int age;
 //helo
+//helo
   const Result({Key? key, required this.result, required this.ismMale, required this.age}) : super(key: key);
   @override
   Widget build(BuildContext context) {
